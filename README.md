@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # fitness_buddy
 
 A new Flutter project.
